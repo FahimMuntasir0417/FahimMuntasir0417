@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Md Fahim Muntasir</h1>
 
 <h3 align="center">
-  Full-Stack Software Engineer | MERN Stack Developer | Aspiring AI Engineer
+ Full-Stack Developer | MERN Stack Developer | Aspiring AI Developer
 </h3>
 
 <p align="center">
