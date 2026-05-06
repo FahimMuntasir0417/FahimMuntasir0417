@@ -1,25 +1,54 @@
-<!-- Professional Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahimMuntasir0417/FahimMuntasir0417/main/banner.png" alt="Md Fahim Muntasir Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/FahimMuntasir0417/FahimMuntasir0417/main/banner.png" alt="Md Fahim Muntasir - Full Stack Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Md Fahim Muntasir 👋</h1>
+<h1 align="center">Hi 👋, I'm Md Fahim Muntasir</h1>
+
+<h3 align="center">
+  Full-Stack Software Engineer | MERN Stack Developer | Aspiring AI Engineer
+</h3>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer | MERN Stack Developer | Aspiring AI Engineer</strong>
+  I build scalable, responsive, and production-ready web applications using JavaScript, React, Node.js, and modern backend technologies.
 </p>
 
 <p align="center">
-  I build clean, scalable, and user-friendly web applications using modern frontend and backend technologies.
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/FahimMuntasir0417">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-I am a full-stack software engineer focused on building practical web applications, REST APIs, and database-driven systems.  
-My core expertise includes React, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL.  
-I am currently improving my skills in AI engineering, system design, Docker, and cloud deployment.
+I am a full-stack software engineer focused on building clean, maintainable, and user-friendly web applications.  
+My work combines frontend development, backend APIs, database design, authentication, and deployment-ready architecture.
+
+- 🔭 Currently building full-stack projects with **React, Next.js, Node.js, Express, and MongoDB**
+- 🌱 Currently learning **AI Engineering, System Design, Docker, GraphQL, and AWS**
+- 💬 Ask me about **JavaScript, React, Node.js, REST APIs, MongoDB, PostgreSQL, and full-stack development**
+- 🎯 Career goal: **Full-Stack Developer / Software Engineer role in an international tech team**
+- 🤝 Open to **remote, hybrid, relocation, internship, and junior developer opportunities**
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+## 🧩 Professional Summary
+
+Full-stack developer with hands-on experience building responsive frontend interfaces, RESTful APIs, and database-driven applications.  
+Comfortable working across the software development lifecycle, from UI implementation and API integration to backend logic and data modeling.  
+Strong interest in scalable systems, clean architecture, cloud deployment, and AI-powered software products.
 
 ---
 
@@ -28,70 +57,74 @@ I am currently improving my skills in AI engineering, system design, Docker, and
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 ### Database & ORM
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 1. Project Name One
 
-A short description of what the project does and what problem it solves.
+A production-ready full-stack application with authentication, database integration, and responsive UI.
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB  
-**Live Demo:** [View Project](#)  
+**Live Demo:** [View Demo](#)  
 **Repository:** [View Code](#)
 
 ---
 
 ### 2. Project Name Two
 
-A short description of your second best project.
+A modern web application focused on clean UI, reusable components, and API integration.
 
-**Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma  
-**Live Demo:** [View Project](#)  
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
+**Live Demo:** [View Demo](#)  
 **Repository:** [View Code](#)
 
 ---
 
 ### 3. Project Name Three
 
-A short description of your third best project.
+A backend-focused project demonstrating REST API design, database modeling, and secure authentication.
 
-**Tech Stack:** React, Tailwind CSS, REST API  
-**Live Demo:** [View Project](#)  
+**Tech Stack:** Node.js, Express.js, PostgreSQL, Prisma  
+**Live Demo:** [View Demo](#)  
 **Repository:** [View Code](#)
 
 ---
@@ -99,53 +132,61 @@ A short description of your third best project.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimMuntasir0417&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=FahimMuntasir0417&show_icons=true&theme=default&hide_border=true" 
+    alt="Md Fahim Muntasir GitHub Stats" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimMuntasir0417&layout=compact&theme=default&hide_border=true" 
+    alt="Md Fahim Muntasir Top Languages" 
+    height="165"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimMuntasir0417&layout=compact&theme=default" alt="Top Languages" />
-</p>
+---
+
+## 🌍 Open to Opportunities
+
+I am actively seeking international software engineering opportunities where I can contribute to real-world products, collaborate with experienced engineering teams, and continue growing as a full-stack developer.
+
+**Interested roles:**
+
+- Full-Stack Developer
+- Frontend Developer
+- Backend Developer
+- MERN Stack Developer
+- Junior Software Engineer
+- Remote Software Developer
 
 ---
 
-## 🌱 Currently Learning
-
-- AI Engineering
-- System Design
-- Docker
-- AWS
-- Advanced Backend Architecture
-
----
-
-## 🤝 Open Source & Collaboration
-
-I am interested in contributing to open-source projects, improving real-world applications, and collaborating with other developers on meaningful software projects.
-
----
-
-## 📫 Contact & Social Links
+## 📫 Contact
 
 <p>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-your--email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
 
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
 
-  <a href="https://github.com/FahimMuntasir0417" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+<p>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-View_my_work-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Thanks for visiting my GitHub profile.</em>
+  <img src="https://komarev.com/ghpvc/?username=FahimMuntasir0417&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <em>Thanks for visiting my profile. I am always open to meaningful collaboration and international software engineering opportunities.</em>
 </p>
