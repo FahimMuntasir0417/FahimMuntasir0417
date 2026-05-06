@@ -96,37 +96,7 @@ Strong interest in scalable systems, clean architecture, cloud deployment, and A
 
 ---
 
-## 🚀 Featured Projects
 
-### 1. Project Name One
-
-A production-ready full-stack application with authentication, database integration, and responsive UI.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB  
-**Live Demo:** [View Demo](#)  
-**Repository:** [View Code](#)
-
----
-
-### 2. Project Name Two
-
-A modern web application focused on clean UI, reusable components, and API integration.
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
-**Live Demo:** [View Demo](#)  
-**Repository:** [View Code](#)
-
----
-
-### 3. Project Name Three
-
-A backend-focused project demonstrating REST API design, database modeling, and secure authentication.
-
-**Tech Stack:** Node.js, Express.js, PostgreSQL, Prisma  
-**Live Demo:** [View Demo](#)  
-**Repository:** [View Code](#)
-
----
 
 ## 📊 GitHub Statistics
 
@@ -163,19 +133,20 @@ I am actively seeking international software engineering opportunities where I c
 ## 📫 Contact
 
 <p>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:fahimmuntasirbejoy@gmail.comProfile image
+fahimmuntasirbejoy@gmail.com">
     <img src="https://img.shields.io/badge/Email-your--email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/md-fahim-muntasir-aa536b366/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://fahim-portfolio-dun.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View_my_work-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
