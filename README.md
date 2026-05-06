@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1rwOa2GxsU1kea-BpyKvVpwR_WiyPdnqf/view?usp=sharing" alt="Md Fahim Muntasir - Full Stack Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/FahimMuntasir0417/FahimMuntasir0417/main/banner.png" alt="Md Fahim Muntasir - Full Stack Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Fahim Muntasir</h1>
