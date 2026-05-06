@@ -36,7 +36,7 @@ My work combines frontend development, backend APIs, database design, authentica
 
 - 🔭 Currently building full-stack projects with **React, Next.js, Node.js, Express, and MongoDB**
 - 🌱 Currently learning **AI Engineering, System Design, Docker, GraphQL, and AWS**
-- 💬 Ask me about **JavaScript, React, Node.js, REST APIs, MongoDB, PostgreSQL, and full-stack development**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, PostgreSQL, and full-stack development**
 - 🎯 Career goal: **Full-Stack Developer / Software Engineer role in an international tech team**
 - 🤝 Open to **remote, hybrid, relocation, internship, and junior developer opportunities**
 - 📫 Reach me at: **fahimmuntasirbejoy@gmail.com**
