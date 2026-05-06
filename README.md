@@ -132,7 +132,7 @@ I am actively seeking international software engineering opportunities where I c
 ## 📫 Contact
 
 <p>
-  <a href="mailto:fahimmuntasirbejoy@gmail.comProfile image
+  <a href="mailto:
 fahimmuntasirbejoy@gmail.com">
     <img src="https://img.shields.io/badge/Email-your--email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
