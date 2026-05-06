@@ -14,18 +14,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:
+fahimmuntasirbejoy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/md-fahim-muntasir-aa536b366/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://fahim-portfolio-dun.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/FahimMuntasir0417">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+ 
 </p>
 
 ---
@@ -40,7 +39,7 @@ My work combines frontend development, backend APIs, database design, authentica
 - 💬 Ask me about **JavaScript, React, Node.js, REST APIs, MongoDB, PostgreSQL, and full-stack development**
 - 🎯 Career goal: **Full-Stack Developer / Software Engineer role in an international tech team**
 - 🤝 Open to **remote, hybrid, relocation, internship, and junior developer opportunities**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **fahimmuntasirbejoy@gmail.com**
 
 ---
 
